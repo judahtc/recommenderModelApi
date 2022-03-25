@@ -41,7 +41,7 @@ async def recommend(user_input:str):
             first_ten=[]
             count=0
             for program in programs:
-                if count>9:
+                if count>10:
                     break
                 count+=1
                 first_ten.append(program)
