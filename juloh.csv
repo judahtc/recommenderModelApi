@@ -1,0 +1,180 @@
+,Subjects,Program,Career option,Subject 1.1,Subject 2.2,Subject 3.3,total_points,imp,ids
+3,"Chemistry, Mathematics, Physics",Computer Science,Information and Technology,3,3,5,11,"Chemistry, Mathematics, Physics Information and Technology 11",0
+4,"Chemistry, Mathematics, Physics",electronics engineering ,Engineering,5,4,2,11,"Chemistry, Mathematics, Physics Engineering 11",1
+5,"History, Shona, Religious Studies",Developmental Studies,Humanitarians and Arts,4,2,3,9,"History, Shona, Religious Studies Humanitarians and Arts 9",2
+6,"Mathematics, Physics, Computer Science",Computer Science,Information and Technology,3,3,5,11,"Mathematics, Physics, Computer Science Information and Technology 11",3
+7,"Accounting, Mathematics, Business Studies",Accounting,Accounting and Commerce,5,4,3,12,"Accounting, Mathematics, Business Studies Accounting and Commerce 12",4
+8,"English Literature, History, Shona",Politics and public management,Humanitarians and Arts,4,3,2,9,"English Literature, History, Shona Humanitarians and Arts 9",5
+9,"English Literature, History, Divinity",Law,Law,5,5,5,15,"English Literature, History, Divinity Law 15",6
+10,"Chemistry, Mathematics, Physics",Electronics Engineering,Engineering,5,5,4,14,"Chemistry, Mathematics, Physics Engineering 14",7
+11,"Chemistry, Mathematics, Physics",Industrial and manufacturing engineering,Engineering,5,2,3,10,"Chemistry, Mathematics, Physics Engineering 10",8
+12,"Mathematics, Physics, Geography",Mining Engineering,Engineering,5,5,4,14,"Mathematics, Physics, Geography Engineering 14",9
+13,"Mathematics, Physics, Computer Science",Software Engineering,Information and Technology,5,4,5,14,"Mathematics, Physics, Computer Science Information and Technology 14",10
+14,"Chemistry, Mathematics, Geography",Fuels and Energy,Engineering,4,3,4,11,"Chemistry, Mathematics, Geography Engineering 11",11
+15,"English Literature, History, Shona",Social Work,Humanitarians and Arts,5,5,4,14,"English Literature, History, Shona Humanitarians and Arts 14",12
+16,"Accounting, Economics, Commerce",Business Management,Humanitarians and Arts,4,3,2,9,"Accounting, Economics, Commerce Humanitarians and Arts 9",13
+17,"Accounting, Mathematics, Business Studies",Accounting,Accounting and Commerce,5,5,5,15,"Accounting, Mathematics, Business Studies Accounting and Commerce 15",14
+18,"Accounting, Mathematics, Business Studies",Acturial Science,Accounting and Commerce,5,5,5,15,"Accounting, Mathematics, Business Studies Accounting and Commerce 15",15
+19,"Chemistry, Mathematics, Biology",Biochemistry,Health Science and Medicine,4,3,1,8,"Chemistry, Mathematics, Biology Health Science and Medicine 8",16
+20,"Computer Science, Business Studies, Commerce",Information Systems,Information and Technology,3,4,4,11,"Computer Science, Business Studies, Commerce Information and Technology 11",17
+21,"History, Geography, Shona",Urban planning,Humanitarians and Arts,4,2,3,9,"History, Geography, Shona Humanitarians and Arts 9",18
+22,"Accounting, Economics, Geography",Quantity Survey,Architecture and Survey,4,3,4,11,"Accounting, Economics, Geography Architecture and Survey 11",19
+23,"Accounting, Business Studies, Commerce",Forensic Audit,Accounting and Commerce,5,2,3,10,"Accounting, Business Studies, Commerce Accounting and Commerce 10",20
+24,"Accounting, Business Studies, Commerce",Marketing,Accounting and Commerce,4,2,2,8,"Accounting, Business Studies, Commerce Accounting and Commerce 8",21
+25,"History, Shona, Divinity",Human Resources Studies,Humanitarians and Arts,5,3,5,13,"History, Shona, Divinity Humanitarians and Arts 13",22
+26,"Accounting, Economics, Business Studies",Banking ,Accounting and Commerce,4,3,1,8,"Accounting, Economics, Business Studies Accounting and Commerce 8",23
+27,"Mathematics, Business Studies, Commerce",Finance,Accounting and Commerce,3,4,2,9,"Mathematics, Business Studies, Commerce Accounting and Commerce 9",24
+28,"Mathematics, Physics, Design and Technology",Computer Science,Information and Technology,4,4,5,13,"Mathematics, Physics, Design and Technology Information and Technology 13",25
+29,"Mathematics, Computer Science, Commerce",Information Technology,Information and Technology,4,4,4,12,"Mathematics, Computer Science, Commerce Information and Technology 12",26
+30,"Mathematics, Physics, Computer Science",Informatics,Information and Technology,3,3,3,9,"Mathematics, Physics, Computer Science Information and Technology 9",27
+31,"Mathematics, Physics, Computer Science",Computer Science,Information and Technology,5,3,4,12,"Mathematics, Physics, Computer Science Information and Technology 12",28
+32,"Mathematics, Physics, Geography",Environmental Engineering,Engineering,4,3,5,12,"Mathematics, Physics, Geography Engineering 12",29
+33,"Accounting, Mathematics, Business Studies",Data Scince and Informatics,Information and Technology,4,4,3,11,"Accounting, Mathematics, Business Studies Information and Technology 11",30
+34,"Chemistry, Mathematics, Biology",Medicine,Health Science and Medicine,5,5,5,15,"Chemistry, Mathematics, Biology Health Science and Medicine 15",31
+35,"Chemistry, Mathematics, Physics",Radiograph,Health Science and Medicine,5,4,5,14,"Chemistry, Mathematics, Physics Health Science and Medicine 14",32
+36,"Chemistry, Mathematics, Biology",Applied Chemistry,Health Science and Medicine,5,1,1,7,"Chemistry, Mathematics, Biology Health Science and Medicine 7",33
+37,"Chemistry, Mathematics, Biology",Biotechnology,BioSciences,1,1,4,6,"Chemistry, Mathematics, Biology BioSciences 6",34
+38,"Chemistry, Mathematics, Physics",Electrical Engineering,Engineering,5,4,5,14,"Chemistry, Mathematics, Physics Engineering 14",35
+39,"Chemistry, Mathematics, Biology",Chemical Engineering,Engineering,5,4,4,13,"Chemistry, Mathematics, Biology Engineering 13",36
+40,"Chemistry, Mathematics, Biology",Chemical Engineering,Engineering,5,4,5,14,"Chemistry, Mathematics, Biology Engineering 14",37
+41,"Chemistry, Mathematics, Physics",Industrial and Manufacturing Engineering,Engineering,3,4,4,11,"Chemistry, Mathematics, Physics Engineering 11",38
+42,"Chemistry, Mathematics, Agriculture",Crop Science,Agriculture,4,4,4,12,"Chemistry, Mathematics, Agriculture Agriculture 12",39
+43,"Mathematics, Geography, Agriculture",Earth Science,Agriculture,4,4,4,12,"Mathematics, Geography, Agriculture Agriculture 12",40
+44,"Economics, Mathematics, Business Studies",Property Management,Architecture and Survey,4,4,4,12,"Economics, Mathematics, Business Studies Architecture and Survey 12",41
+45,"Chemistry, Mathematics, Physics",Electronics Engineering,Engineering,4,5,5,14,"Chemistry, Mathematics, Physics Engineering 14",42
+46,"Chemistry, Mathematics, Physics",Radiograph,Health Science and Medicine,4,4,5,13,"Chemistry, Mathematics, Physics Health Science and Medicine 13",43
+47,"Mathematics, Computer Science, Design and Technology",Information Security,Information and Technology,4,5,4,13,"Mathematics, Computer Science, Design and Technology Information and Technology 13",44
+48,"Accounting, Economics, Mathematics",Accounting,Accounting and Commerce,5,5,5,15,"Accounting, Economics, Mathematics Accounting and Commerce 15",45
+49,"English Literature, History, Divinity",Law,Law,5,5,5,15,"English Literature, History, Divinity Law 15",46
+50,"Chemistry, Mathematics, Physics",Medicine,Health Science and Medicine,5,5,5,15,"Chemistry, Mathematics, Physics Health Science and Medicine 15",47
+51,"Chemistry, Mathematics, Biology",Medicine,BioSciences,5,5,5,15,"Chemistry, Mathematics, Biology BioSciences 15",48
+52,"Chemistry, Mathematics, Physics",Operation Research and Statistics,Applied Science,5,1,1,7,"Chemistry, Mathematics, Physics Applied Science 7",49
+53,"Mathematics, Computer Science, Business Studies",Informatics,Information and Technology,5,3,1,9,"Mathematics, Computer Science, Business Studies Information and Technology 9",50
+54,"Mathematics, Computer Science, Business Studies",Business Studies and computing Sciences,Information and Technology,5,4,4,13,"Mathematics, Computer Science, Business Studies Information and Technology 13",51
+55,"Accounting, Mathematics, Computer Science",Business Studies and Computing Sciences,Information and Technology,4,4,4,12,"Accounting, Mathematics, Computer Science Information and Technology 12",52
+56,"English Literature, History, Divinity",Human Resources Studies,Humanitarians and Arts,5,4,5,14,"English Literature, History, Divinity Humanitarians and Arts 14",53
+57,"English Literature, History, Divinity",International Relations ,Humanitarians and Arts,2,2,2,6,"English Literature, History, Divinity Humanitarians and Arts 6",54
+61,"Chemistry, Mathematics, Physics",Computer Science,Information and Technology,3,3,5,11,"Chemistry, Mathematics, Physics Information and Technology 11",55
+62,"Chemistry, Mathematics, Physics",electronics engineering ,Engineering,5,4,2,11,"Chemistry, Mathematics, Physics Engineering 11",56
+63,"History, Shona, Religious Studies",Developmental Studies,Humanitarians and Arts,4,2,3,9,"History, Shona, Religious Studies Humanitarians and Arts 9",57
+64,"Mathematics, Physics, Computer Science",Computer Science,Information and Technology,3,3,5,11,"Mathematics, Physics, Computer Science Information and Technology 11",58
+65,"Accounting, Mathematics, Business Studies",Accounting,Accounting and Commerce,5,4,3,12,"Accounting, Mathematics, Business Studies Accounting and Commerce 12",59
+66,"English Literature, History, Shona",Politics and public management,Humanitarians and Arts,4,3,2,9,"English Literature, History, Shona Humanitarians and Arts 9",60
+67,"English Literature, History, Divinity",Law,Law,5,5,5,15,"English Literature, History, Divinity Law 15",61
+68,"Chemistry, Mathematics, Physics",Electronics Engineering,Engineering,5,5,4,14,"Chemistry, Mathematics, Physics Engineering 14",62
+69,"Chemistry, Mathematics, Physics",Industrial and manufacturing engineering,Engineering,5,2,3,10,"Chemistry, Mathematics, Physics Engineering 10",63
+70,"Mathematics, Physics, Geography",Mining Engineering,Engineering,5,5,4,14,"Mathematics, Physics, Geography Engineering 14",64
+71,"Mathematics, Physics, Computer Science",Software Engineering,Information and Technology,5,4,5,14,"Mathematics, Physics, Computer Science Information and Technology 14",65
+72,"Chemistry, Mathematics, Geography",Fuels and Energy,Engineering,4,3,4,11,"Chemistry, Mathematics, Geography Engineering 11",66
+73,"English Literature, History, Shona",Social Work,Humanitarians and Arts,5,5,4,14,"English Literature, History, Shona Humanitarians and Arts 14",67
+74,"Accounting, Economics, Commerce",Business Management,Humanitarians and Arts,4,3,2,9,"Accounting, Economics, Commerce Humanitarians and Arts 9",68
+75,"Accounting, Mathematics, Business Studies",Accounting,Accounting and Commerce,5,5,5,15,"Accounting, Mathematics, Business Studies Accounting and Commerce 15",69
+76,"Accounting, Mathematics, Business Studies",Acturial Science,Accounting and Commerce,5,5,5,15,"Accounting, Mathematics, Business Studies Accounting and Commerce 15",70
+77,"Chemistry, Mathematics, Biology",Biochemistry,Health Science and Medicine,4,3,1,8,"Chemistry, Mathematics, Biology Health Science and Medicine 8",71
+78,"Computer Science, Business Studies, Commerce",Information Systems,Information and Technology,3,4,4,11,"Computer Science, Business Studies, Commerce Information and Technology 11",72
+79,"History, Geography, Shona",Urban planning,Humanitarians and Arts,4,2,3,9,"History, Geography, Shona Humanitarians and Arts 9",73
+80,"Accounting, Economics, Geography",Quantity Survey,Architecture and Survey,4,3,4,11,"Accounting, Economics, Geography Architecture and Survey 11",74
+81,"Accounting, Business Studies, Commerce",Forensic Audit,Accounting and Commerce,5,2,3,10,"Accounting, Business Studies, Commerce Accounting and Commerce 10",75
+82,"Accounting, Business Studies, Commerce",Marketing,Accounting and Commerce,4,2,2,8,"Accounting, Business Studies, Commerce Accounting and Commerce 8",76
+83,"History, Shona, Divinity",Human Resources Studies,Humanitarians and Arts,5,3,5,13,"History, Shona, Divinity Humanitarians and Arts 13",77
+84,"Accounting, Economics, Business Studies",Banking ,Accounting and Commerce,4,3,1,8,"Accounting, Economics, Business Studies Accounting and Commerce 8",78
+85,"Mathematics, Business Studies, Commerce",Finance,Accounting and Commerce,3,4,2,9,"Mathematics, Business Studies, Commerce Accounting and Commerce 9",79
+86,"Mathematics, Physics, Design and Technology",Computer Science,Information and Technology,4,4,5,13,"Mathematics, Physics, Design and Technology Information and Technology 13",80
+87,"Mathematics, Computer Science, Commerce",Information Technology,Information and Technology,4,4,4,12,"Mathematics, Computer Science, Commerce Information and Technology 12",81
+88,"Mathematics, Physics, Computer Science",Informatics,Information and Technology,3,3,3,9,"Mathematics, Physics, Computer Science Information and Technology 9",82
+89,"Mathematics, Physics, Computer Science",Computer Science,Information and Technology,5,3,4,12,"Mathematics, Physics, Computer Science Information and Technology 12",83
+90,"Mathematics, Physics, Geography",Environmental Engineering,Engineering,4,3,5,12,"Mathematics, Physics, Geography Engineering 12",84
+91,"Accounting, Mathematics, Business Studies",Data Scince and Informatics,Information and Technology,4,4,3,11,"Accounting, Mathematics, Business Studies Information and Technology 11",85
+92,"Chemistry, Mathematics, Biology",Medicine,Health Science and Medicine,5,5,5,15,"Chemistry, Mathematics, Biology Health Science and Medicine 15",86
+93,"Chemistry, Mathematics, Physics",Radiograph,Health Science and Medicine,5,4,5,14,"Chemistry, Mathematics, Physics Health Science and Medicine 14",87
+94,"Chemistry, Mathematics, Biology",Applied Chemistry,Health Science and Medicine,5,1,1,7,"Chemistry, Mathematics, Biology Health Science and Medicine 7",88
+95,"Chemistry, Mathematics, Biology",Biotechnology,BioSciences,1,1,4,6,"Chemistry, Mathematics, Biology BioSciences 6",89
+96,"Chemistry, Mathematics, Physics",Electrical Engineering,Engineering,5,3,5,13,"Chemistry, Mathematics, Physics Engineering 13",90
+97,"Chemistry, Mathematics, Biology",Chemical Engineering,Engineering,5,3,5,13,"Chemistry, Mathematics, Biology Engineering 13",91
+98,"Chemistry, Mathematics, Biology",Chemical Engineering,Engineering,5,3,5,13,"Chemistry, Mathematics, Biology Engineering 13",92
+99,"Chemistry, Mathematics, Physics",Industrial and Manufacturing Engineering,Engineering,3,3,5,11,"Chemistry, Mathematics, Physics Engineering 11",93
+100,"Chemistry, Mathematics, Agriculture",Crop Science,Agriculture,4,3,5,12,"Chemistry, Mathematics, Agriculture Agriculture 12",94
+101,"Mathematics, Geography, Agriculture",Earth Science,Agriculture,4,3,5,12,"Mathematics, Geography, Agriculture Agriculture 12",95
+102,"Economics, Mathematics, Business Studies",Property Management,Architecture and Survey,4,3,4,11,"Economics, Mathematics, Business Studies Architecture and Survey 11",96
+103,"Chemistry, Mathematics, Physics",Electronics Engineering,Engineering,4,3,5,12,"Chemistry, Mathematics, Physics Engineering 12",97
+104,"Chemistry, Mathematics, Physics",Radiograph,Health Science and Medicine,5,4,4,13,"Chemistry, Mathematics, Physics Health Science and Medicine 13",98
+105,"Mathematics, Computer Science, Design and Technology",Information Security,Information and Technology,4,5,4,13,"Mathematics, Computer Science, Design and Technology Information and Technology 13",99
+106,"Accounting, Economics, Mathematics",Accounting,Accounting and Commerce,5,5,5,15,"Accounting, Economics, Mathematics Accounting and Commerce 15",100
+107,"English Literature, History, Divinity",Law,Law,5,5,5,15,"English Literature, History, Divinity Law 15",101
+108,"Chemistry, Mathematics, Physics",Medicine,Health Science and Medicine,5,5,5,15,"Chemistry, Mathematics, Physics Health Science and Medicine 15",102
+109,"Chemistry, Mathematics, Biology",Medicine,BioSciences,5,5,5,15,"Chemistry, Mathematics, Biology BioSciences 15",103
+110,"Chemistry, Mathematics, Physics",Operation Research and Statistics,Applied Science,5,1,1,7,"Chemistry, Mathematics, Physics Applied Science 7",104
+111,"Mathematics, Computer Science, Business Studies",Informatics,Information and Technology,5,3,1,9,"Mathematics, Computer Science, Business Studies Information and Technology 9",105
+112,"Mathematics, Computer Science, Business Studies",Business Studies and computing Sciences,Information and Technology,5,4,4,13,"Mathematics, Computer Science, Business Studies Information and Technology 13",106
+113,"Accounting, Mathematics, Computer Science",Business Studies and Computing Sciences,Information and Technology,4,4,4,12,"Accounting, Mathematics, Computer Science Information and Technology 12",107
+114,"English Literature, History, Divinity",Human Resources Studies,Humanitarians and Arts,5,4,5,14,"English Literature, History, Divinity Humanitarians and Arts 14",108
+115,"English Literature, History, Divinity",International Relations ,Humanitarians and Arts,2,2,2,6,"English Literature, History, Divinity Humanitarians and Arts 6",109
+116,"English Literature, History, Divinity",Law,Law,5,5,5,15,"English Literature, History, Divinity Law 15",110
+117,"Chemistry, Mathematics, Physics",Medicine,Health Science and Medicine,5,5,5,15,"Chemistry, Mathematics, Physics Health Science and Medicine 15",111
+118,"Chemistry, Mathematics, Biology",Biotechnology,BioSciences,5,5,5,15,"Chemistry, Mathematics, Biology BioSciences 15",112
+119,"Chemistry, Mathematics, Physics",Operation Research and Statistics,Applied Science,5,1,1,7,"Chemistry, Mathematics, Physics Applied Science 7",113
+120,"Mathematics, Computer Science, Business Studies",Informatics,Information and Technology,5,3,1,9,"Mathematics, Computer Science, Business Studies Information and Technology 9",114
+121,"English Literature, History, Divinity",Law,Law,5,5,5,15,"English Literature, History, Divinity Law 15",115
+122,"Chemistry, Mathematics, Physics",Medicine,Health Science and Medicine,5,5,5,15,"Chemistry, Mathematics, Physics Health Science and Medicine 15",116
+123,"Chemistry, Mathematics, Biology",Medicine,BioSciences,5,5,5,15,"Chemistry, Mathematics, Biology BioSciences 15",117
+124,"Chemistry, Mathematics, Physics",Operation Research and Statistics,Applied Science,5,1,1,7,"Chemistry, Mathematics, Physics Applied Science 7",118
+125,"Mathematics, Computer Science, Business Studies",Informatics,Information and Technology,5,3,1,9,"Mathematics, Computer Science, Business Studies Information and Technology 9",119
+126,"English Literature, History, Divinity",Law,Law,5,5,5,15,"English Literature, History, Divinity Law 15",120
+127,"Chemistry, Mathematics, Physics",Medicine,Health Science and Medicine,5,5,5,15,"Chemistry, Mathematics, Physics Health Science and Medicine 15",121
+128,"Chemistry, Mathematics, Biology",Medicine,BioSciences,5,5,5,15,"Chemistry, Mathematics, Biology BioSciences 15",122
+129,"Chemistry, Mathematics, Physics",Operation Research and Statistics,Applied Science,5,1,1,7,"Chemistry, Mathematics, Physics Applied Science 7",123
+130,"Mathematics, Computer Science, Business Studies",Informatics,Information and Technology,5,3,1,9,"Mathematics, Computer Science, Business Studies Information and Technology 9",124
+131,"Mathematics, Computer Science, Business Studies",Computer Science,Information and Technology,5,5,5,15,"Mathematics, Computer Science, Business Studies Information and Technology 15",125
+132,"Mathematics, Computer Science, Business Studies",Business studies and Computer Science,Information and Technology,5,5,5,15,"Mathematics, Computer Science, Business Studies Information and Technology 15",126
+133,"Computer Science, Mathematics, Business Studies",Informatics,Information and Technology,5,5,4,14,"Computer Science, Mathematics, Business Studies Information and Technology 14",127
+134,"Mathematics, Computer Science, Business Studies",Information Technology,Information and Technology,5,4,3,12,"Mathematics, Computer Science, Business Studies Information and Technology 12",128
+135,"Mathematics, Computer Science, Business Studies",Information Systems,Information and Technology,4,4,2,10,"Mathematics, Computer Science, Business Studies Information and Technology 10",129
+136,"Mathematics, Computer Science, Business Studies",Business Management,Accounting and Commerce,5,3,1,9,"Mathematics, Computer Science, Business Studies Accounting and Commerce 9",130
+137,"Mathematics, Computer Science, Business Studies",Marketing,Accounting and Commerce,3,2,5,10,"Mathematics, Computer Science, Business Studies Accounting and Commerce 10",131
+139,"Mathematics, Computer Science, Business Studies",Business Management,Accounting and Commerce,5,3,1,9,"Mathematics, Computer Science, Business Studies Accounting and Commerce 9",132
+140,"Mathematics, Computer Science, Business Studies",Marketing,Accounting and Commerce,3,2,5,10,"Mathematics, Computer Science, Business Studies Accounting and Commerce 10",133
+141,"Mathematics, Business Studies, Computer Science",Business studies and Computer Science,Information and Technology,5,5,5,15,"Mathematics, Business Studies, Computer Science Information and Technology 15",134
+144,"Mathematics, Physics, Computer Science",Telecommunications Engineering,Engineering,2,2,2,6,"Mathematics, Physics, Computer Science Engineering 6",135
+145,"Mathematics, Physics, Computer Science",Electronics Engineering,Engineering,2,2,2,6,"Mathematics, Physics, Computer Science Engineering 6",136
+147,"Mathematics, Biology, Chemistry",Chemical Engineering,Engineering,5,4,4,13,"Mathematics, Biology, Chemistry Engineering 13",137
+157,"History, Shona, Religious Studies",Sociology,Humanitarians and Arts,5,4,3,12,"History, Shona, Religious Studies Humanitarians and Arts 12",138
+158,"History, Shona, Religious Studies",Archaeology,Humanitarians and Arts,5,2,2,9,"History, Shona, Religious Studies Humanitarians and Arts 9",139
+159,"History, Shona, Religious Studies",Economic History,Humanitarians and Arts,5,2,2,9,"History, Shona, Religious Studies Humanitarians and Arts 9",140
+160,"History, Shona, Divinity",Sociology,Humanitarians and Arts,5,4,3,12,"History, Shona, Divinity Humanitarians and Arts 12",141
+161,"Shona,History,  Religious Studies",Archaeology,Humanitarians and Arts,5,2,2,9,"Shona,History,  Religious Studies Humanitarians and Arts 9",142
+162,"History,  Religious Studies,Shona",Economic History,Humanitarians and Arts,5,2,2,9,"History,  Religious Studies,Shona Humanitarians and Arts 9",143
+163,"History, Shona, Divinity",Sociology,Humanitarians and Arts,5,4,3,12,"History, Shona, Divinity Humanitarians and Arts 12",144
+164,"Shona,History,  Religious Studies",Archaeology,Humanitarians and Arts,5,2,2,9,"Shona,History,  Religious Studies Humanitarians and Arts 9",145
+165,"Religious Studies,History,  Shona",Economic History,Humanitarians and Arts,5,2,2,9,"Religious Studies,History,  Shona Humanitarians and Arts 9",146
+166,"Chemistry, Mathematics, Biology",Applied Biology,BioSciences,2,2,2,6,"Chemistry, Mathematics, Biology BioSciences 6",147
+167,"Chemistry, Mathematics, Biology",Biochemistry,BioSciences,1,2,2,5,"Chemistry, Mathematics, Biology BioSciences 5",148
+168," Mathematics, Biology, Chemistry",Applied Biology,BioSciences,2,2,2,6," Mathematics, Biology, Chemistry BioSciences 6",149
+169," Mathematics, Biology, Chemistry",Biochemistry,BioSciences,1,2,2,5," Mathematics, Biology, Chemistry BioSciences 5",150
+170,"Chemistry, Mathematics, Biology", Dental Surgery,Health Science and Medicine,4,5,5,14,"Chemistry, Mathematics, Biology Health Science and Medicine 14",151
+171,"Mathematics, Biology, Chemistry", Dental Surgery,Health Science and Medicine,4,5,5,14,"Mathematics, Biology, Chemistry Health Science and Medicine 14",152
+172,"Mathematics, Biology, Chemistry",Medicine,Health Science and Medicine,5,5,5,15,"Mathematics, Biology, Chemistry Health Science and Medicine 15",153
+173,"Mathematics, Biology, Chemistry",Forensic Medicine,Health Science and Medicine,5,4,2,11,"Mathematics, Biology, Chemistry Health Science and Medicine 11",154
+174,"Mathematics, Biology, Chemistry",Forensic Medicine,Health Science and Medicine,2,2,2,6,"Mathematics, Biology, Chemistry Health Science and Medicine 6",155
+175,"Mathematics, Biology, Chemistry",Pharmacy and Drug Discovery,Health Science and Medicine,5,4,5,14,"Mathematics, Biology, Chemistry Health Science and Medicine 14",156
+176,"Mathematics, Biology, Chemistry",Pharmacy and Drug Discovery,Health Science and Medicine,5,4,5,14,"Mathematics, Biology, Chemistry Health Science and Medicine 14",157
+177," Mathematics, Chemistry, Biology",Biochemistry,BioSciences,1,2,2,5," Mathematics, Chemistry, Biology BioSciences 5",158
+178,"Chemistry, Mathematics, Biology", Dental Surgery,Health Science and Medicine,4,5,5,14,"Chemistry, Mathematics, Biology Health Science and Medicine 14",159
+179,"Mathematics, Biology, Chemistry", Dental Surgery,Health Science and Medicine,4,5,5,14,"Mathematics, Biology, Chemistry Health Science and Medicine 14",160
+180,"Mathematics, Biology, Chemistry",Medicine,Health Science and Medicine,5,5,5,15,"Mathematics, Biology, Chemistry Health Science and Medicine 15",161
+181,"Chemistry, Mathematics, Biology ",Forensic Medicine,Health Science and Medicine,5,4,2,11,"Chemistry, Mathematics, Biology  Health Science and Medicine 11",162
+182," Biology, Chemistry, Mathematics",Forensic Medicine,Health Science and Medicine,2,2,2,6," Biology, Chemistry, Mathematics Health Science and Medicine 6",163
+183,"Chemistry, Mathematics, Physics ",Pharmacy and Drug Discovery,Health Science and Medicine,5,4,5,14,"Chemistry, Mathematics, Physics  Health Science and Medicine 14",164
+185,"Mathematics, Biology, Chemistry",Nursing,Health Science and Medicine,3,3,3,9,"Mathematics, Biology, Chemistry Health Science and Medicine 9",165
+186,"Chemistry, Mathematics, Biology ",Nursing,Health Science and Medicine,3,4,3,10,"Chemistry, Mathematics, Biology  Health Science and Medicine 10",166
+187," Physics, Chemistry,Mathematics",Radiograph,Health Science and Medicine,5,5,4,14," Physics, Chemistry,Mathematics Health Science and Medicine 14",167
+188,"Biology,Mathematics,  Chemistry",Nursing,Health Science and Medicine,3,3,3,9,"Biology,Mathematics,  Chemistry Health Science and Medicine 9",168
+189,"Chemistry, Biology,  Mathematics",Nursing,Health Science and Medicine,3,4,3,10,"Chemistry, Biology,  Mathematics Health Science and Medicine 10",169
+190,"History, English Literature, Divinity",Law,Law,5,5,5,15,"History, English Literature, Divinity Law 15",170
+191,"Divinity, History, English Literature",Law,Law,5,5,5,15,"Divinity, History, English Literature Law 15",171
+192,"Divinity, English Literature, Shona",Law,Law,5,5,5,15,"Divinity, English Literature, Shona Law 15",172
+193,"English Literature, Geography, Shona",Urban planning,Humanitarians and Arts,4,2,3,9,"English Literature, Geography, Shona Humanitarians and Arts 9",173
+194,"Mathematics, Business Studies, Accounting",Acturial Science,Accounting and Commerce,5,5,5,15,"Mathematics, Business Studies, Accounting Accounting and Commerce 15",174
+195,"Accounting, Business Studies, Commerce",Accounting,Accounting and Commerce,5,5,5,15,"Accounting, Business Studies, Commerce Accounting and Commerce 15",175
+196,"Accounting, Mathematics, Commerce",Accounting,Accounting and Commerce,5,5,4,14,"Accounting, Mathematics, Commerce Accounting and Commerce 14",176
+197,"Accounting, Mathematics, Accounting",Accounting,Accounting and Commerce,4,4,5,13,"Accounting, Mathematics, Accounting Accounting and Commerce 13",177
+198,"Mathematics,  Accounting, Business Studies",Acturial Science,Accounting and Commerce,5,5,5,15,"Mathematics,  Accounting, Business Studies Accounting and Commerce 15",178
