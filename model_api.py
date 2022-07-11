@@ -54,8 +54,8 @@ async def recommend(user_input:str):
             df3 = pd.DataFrame (dict, columns = ['Programmes'])
             return df3
         except:
-            exception1={'exception':'No recommendations'}
-            return exception1
+            myexception={'exception':'No recommendations'}
+            return myexception
 
 
 if __name__=='__main__':
